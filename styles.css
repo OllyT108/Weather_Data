@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #71CDE1;
+    color: white;
+}
+
+h1{
+    font-size: 125px;
+    margin: 0 0 10% 0;
+    font-family: 'Kosugi Maru';
+    background-color: #F05B54;
+}
+
+h3{
+    font-size: 48px;
+    font-family: 'Kosugi Maru';
+    margin-bottom: 5%;
+    color: white;
+}
+
+h4{
+    font-family: 'Kosugi Maru';
+    color: black;
+}
+
+.btn{
+    background-color: #F05B54;
+    border: 1px solid black;
+    color: white;
+}
+
+.btn1{
+    border: 1px solid black;
+    background-color: #D24E4E;
+    color: white;
+}
+
+.field{
+    background-color: #F05B54;
+    border: 1px solid black;
+    color: white;
+}
